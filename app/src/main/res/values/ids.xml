@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="viewpager" type="id">false</item>
+    <item name="ll_guide" type="id">false</item>
+    <item name="title_center_text" type="id">false</item>
+    <item name="title_notice" type="id">false</item>
+    <item name="title_search" type="id">false</item>
+</resources>
